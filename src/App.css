@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.coin{
+  background-color: #EEE;
+  width: 500px;
+  margin: auto;
+  padding: 17px;
+  border-radius: 1rem;
+  margin-top: 10px;
+}
+.col{
+  font-weight: bold;
+}
